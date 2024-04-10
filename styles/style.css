@@ -314,7 +314,7 @@
   margin: 0 auto;
   text-align: center;
   font-size: 44px;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 52px;
 }
 
@@ -324,6 +324,7 @@
   margin: 100px 0 0;
   display: flex;
   justify-content: center;
+  column-gap: 40px;
 }
 
 .step {
