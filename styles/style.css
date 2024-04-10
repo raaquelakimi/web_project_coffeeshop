@@ -43,8 +43,8 @@
   display: flex;
   margin: 8px 0 0;
   column-gap: 20px;
-  list-style: none;
-  margin: 0;
+  list-style-type: none;
+  padding: 0;
 }
 
 .nav__link {
@@ -313,9 +313,8 @@
   margin: 0 auto;
   text-align: center;
   font-size: 44px;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 52px;
-  align-items: center;
 }
 
 .membership__steps {
@@ -324,11 +323,11 @@
   margin: 100px 0 0;
   display: flex;
   justify-content: center;
-  column-gap: 40px;
 }
+
 .step {
+  padding: 40px 20px;
   flex-basis: 220px;
-  margin: 0 40px;
 }
 
 .step__title {
