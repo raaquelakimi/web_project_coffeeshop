@@ -71,6 +71,7 @@
   font-size: 20px;
   line-height: 30px;
   max-width: 515px;
+  margin-top: 32px;
 }
 
 .header__image {
@@ -85,7 +86,7 @@
   width: 100%;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-end;
   box-sizing: border-box;
 }
 
